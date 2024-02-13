@@ -24,10 +24,8 @@ In case of problems, for an exact replication of the environment on which those 
 conda env create -f environment.yml
 ```
 
-Note: Because of size constraints the content of:
+Note: Because of size constraints, the content of:
 - /results/replication/estimation_files/*
-- /results/replication/data/*
-- /results/simulations/bambi_fits/*
 - /results/simulations/simulated/*
 
 is zipped and stored on https://osf.io/29tgr/. The content needs to be unzipped and placed in the appropriate folders in order to run the code, note though that this is not obligatory but recreating these files through the scripts might take quite some time
