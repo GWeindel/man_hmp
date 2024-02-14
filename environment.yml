@@ -1,4 +1,4 @@
-name: hmp2
+name: hmp
 channels:
   - conda-forge
   - defaults
