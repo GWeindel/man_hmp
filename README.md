@@ -4,6 +4,7 @@
 
 **Authors : Gabriel Weindel, Leendert van Maanen, Jelmer P. Borst**
 
+![Figure of the paper in 9 panels summarizing the HMP method, see caption of Figure 1 in the paper](plots/method.png)
 This repository contains all the data and code to reproduce the analysis and figures presented in the paper.
 
 - Folder plots/ contains the figure of the paper, a python script to reproduce the method plot (method_plot.py) and some GIMP (.xcf) and inkscape (.svg) files used for post-code figure editing
