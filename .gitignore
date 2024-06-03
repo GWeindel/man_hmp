@@ -1,0 +1,13 @@
+/temp
+.ipynb_checkpoints
+*old*
+*Copy*
+*perso*
+*.mat
+*.tar.gz
+*.zip
+/results/replication/estimation_files/*
+/results/replication/data/*
+/results/simulations/bambi_fits/*
+/results/simulations/simulated/*
+/plots/simulated/*
