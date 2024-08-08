@@ -11,3 +11,7 @@
 /results/simulations/bambi_fits/*
 /results/simulations/simulated/*
 /plots/simulated/*
+/plots
+/illustration/plots/
+/illustration/_pycache_/
+/illustration/data/
